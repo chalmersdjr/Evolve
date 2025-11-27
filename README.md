@@ -2,7 +2,7 @@
 
 ## Play
 
-https://dankaati.github.io/Evolve/
+https://chalmersdjr.github.io/Evolve/
 
 ## About
 
